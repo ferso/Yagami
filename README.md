@@ -1,12 +1,13 @@
 Yagami
 ======
 
-Another Window Modal 
+<h2>Another Window Modal </h2>
 
+Simple Ajax content
 
 <pre>
   window.Light = YagamiBox.init({
-      url : '/hosts/group',
+      url : '/my/form/',
       title: 'My Window',
       width:'600px',
       height:'450px',
