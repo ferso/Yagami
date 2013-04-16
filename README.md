@@ -1,7 +1,12 @@
-Yagami
-======
 
+<html>
+
+<head>
+<title> Yagaim Light Box </title>
+</head>
+<body>
 <h2>Another Window Modal </h2>
+
 
 Simple Ajax content
 
@@ -22,7 +27,8 @@ Simple Ajax content
 
 <button id="openBox2"> View Box 2 No Animated</button>
 
-
+</body>
+</html>
 <script type="text/javascript">
 
 $('#openBox').click(function(){
