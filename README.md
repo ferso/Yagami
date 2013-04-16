@@ -4,7 +4,7 @@ Yagami
 Another Window Modal 
 
 
-
+<pre>
   window.Light = YagamiBox.init({
       url : '/hosts/group',
       title: 'My Window',
@@ -14,3 +14,4 @@ Another Window Modal
          // do something :D
       }
   });
+</pre>
